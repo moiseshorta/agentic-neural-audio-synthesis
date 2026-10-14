@@ -1,0 +1,10 @@
+01_baseline/latents.npy
+02_curriculum_test/latents.npy
+03_codebook_init/latents.npy
+05_pitchbook_prosody2/latents.npy
+08_periodicity/latents_population.npy:2
+10_guards/latents_population.npy:1
+13_surgery_glide/latents.npy
+21_male_polish/latents_population.npy:0
+16_female_base/latents.npy
+20_female_polish/latents_population.npy:1

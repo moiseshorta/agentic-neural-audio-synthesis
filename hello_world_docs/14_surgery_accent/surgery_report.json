@@ -1,0 +1,41 @@
+[
+ {
+  "window_start": 10,
+  "frames": [
+   12,
+   13
+  ],
+  "phones": [
+   "sil",
+   "kcl",
+   "krel",
+   "o",
+   "m"
+  ],
+  "loss_before": 231.4,
+  "loss_after": 33.58,
+  "winner": 46,
+  "winner_group": "random",
+  "accepted": true
+ },
+ {
+  "window_start": 12,
+  "frames": [
+   14,
+   15
+  ],
+  "phones": [
+   "kcl",
+   "krel",
+   "o",
+   "m",
+   "o",
+   "e"
+  ],
+  "loss_before": 163.9,
+  "loss_after": 58.8,
+  "winner": 26,
+  "winner_group": "medium",
+  "accepted": true
+ }
+]

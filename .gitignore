@@ -1,0 +1,7 @@
+neural-audio-codec/*.ts
+__pycache__/
+.DS_Store
+*.aux
+*.log
+*.out
+x_thread/

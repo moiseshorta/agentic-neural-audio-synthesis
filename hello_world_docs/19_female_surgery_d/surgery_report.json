@@ -1,0 +1,24 @@
+[
+ {
+  "window_start": 8,
+  "frames": [
+   11,
+   12
+  ],
+  "phones": [
+   "a",
+   "m",
+   "u",
+   "n",
+   "dcl",
+   "drel",
+   "o",
+   "sil"
+  ],
+  "loss_before": 9.99,
+  "loss_after": 8.3,
+  "winner": 0,
+  "winner_group": "small",
+  "accepted": true
+ }
+]

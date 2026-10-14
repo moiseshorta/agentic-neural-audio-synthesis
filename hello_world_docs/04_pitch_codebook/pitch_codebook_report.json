@@ -1,0 +1,442 @@
+{
+ "a@95": {
+  "err_db": 3.1,
+  "restart": 1,
+  "voiced_pct": 97,
+  "f0": 94.2,
+  "f0_err_cents": -15,
+  "F": [
+   700,
+   1247,
+   2431
+  ],
+  "heard": "a"
+ },
+ "a@115": {
+  "err_db": 3.96,
+  "restart": 5,
+  "voiced_pct": 0,
+  "f0": 0.0,
+  "f0_err_cents": null,
+  "F": [
+   698,
+   1306,
+   2507
+  ],
+  "heard": "a"
+ },
+ "a@140": {
+  "err_db": 3.66,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 140.3,
+  "f0_err_cents": 4,
+  "F": [
+   700,
+   1234,
+   2500
+  ],
+  "heard": "a"
+ },
+ "a@170": {
+  "err_db": 3.77,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 168.7,
+  "f0_err_cents": -13,
+  "F": [
+   684,
+   1227,
+   2494
+  ],
+  "heard": "a"
+ },
+ "a@205": {
+  "err_db": 4.26,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 201.8,
+  "f0_err_cents": -27,
+  "F": [
+   697,
+   1214,
+   2539
+  ],
+  "heard": "a"
+ },
+ "e@95": {
+  "err_db": 3.51,
+  "restart": 0,
+  "voiced_pct": 97,
+  "f0": 93.3,
+  "f0_err_cents": -31,
+  "F": [
+   462,
+   1815,
+   2541
+  ],
+  "heard": "e"
+ },
+ "e@115": {
+  "err_db": 3.88,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 113.9,
+  "f0_err_cents": -17,
+  "F": [
+   458,
+   1833,
+   2540
+  ],
+  "heard": "e"
+ },
+ "e@140": {
+  "err_db": 3.83,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 136.3,
+  "f0_err_cents": -46,
+  "F": [
+   453,
+   1866,
+   2511
+  ],
+  "heard": "e"
+ },
+ "e@170": {
+  "err_db": 4.65,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 171.7,
+  "f0_err_cents": 17,
+  "F": [
+   488,
+   1858,
+   2607
+  ],
+  "heard": "e"
+ },
+ "e@205": {
+  "err_db": 4.42,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 206.5,
+  "f0_err_cents": 13,
+  "F": [
+   433,
+   1851,
+   2572
+  ],
+  "heard": "e"
+ },
+ "i@95": {
+  "err_db": 3.36,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 95.2,
+  "f0_err_cents": 4,
+  "F": [
+   315,
+   2280,
+   2952
+  ],
+  "heard": "i"
+ },
+ "i@115": {
+  "err_db": 4.01,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 115.2,
+  "f0_err_cents": 3,
+  "F": [
+   319,
+   2264,
+   2954
+  ],
+  "heard": "i"
+ },
+ "i@140": {
+  "err_db": 3.99,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 144.4,
+  "f0_err_cents": 54,
+  "F": [
+   314,
+   2280,
+   2920
+  ],
+  "heard": "i"
+ },
+ "i@170": {
+  "err_db": 4.83,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 171.7,
+  "f0_err_cents": 17,
+  "F": [
+   326,
+   2239,
+   2886
+  ],
+  "heard": "i"
+ },
+ "i@205": {
+  "err_db": 5.02,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 210.1,
+  "f0_err_cents": 43,
+  "F": [
+   333,
+   2259,
+   2951
+  ],
+  "heard": "i"
+ },
+ "o@95": {
+  "err_db": 2.47,
+  "restart": 0,
+  "voiced_pct": 91,
+  "f0": 95.8,
+  "f0_err_cents": 15,
+  "F": [
+   488,
+   879,
+   2469
+  ],
+  "heard": "o"
+ },
+ "o@115": {
+  "err_db": 2.45,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 115.2,
+  "f0_err_cents": 3,
+  "F": [
+   485,
+   889,
+   2486
+  ],
+  "heard": "o"
+ },
+ "o@140": {
+  "err_db": 2.78,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 137.8,
+  "f0_err_cents": -27,
+  "F": [
+   499,
+   877,
+   2474
+  ],
+  "heard": "o"
+ },
+ "o@170": {
+  "err_db": 2.95,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 169.7,
+  "f0_err_cents": -3,
+  "F": [
+   506,
+   860,
+   2451
+  ],
+  "heard": "o"
+ },
+ "o@205": {
+  "err_db": 2.9,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 205.3,
+  "f0_err_cents": 3,
+  "F": [
+   471,
+   856,
+   2481
+  ],
+  "heard": "o"
+ },
+ "u@95": {
+  "err_db": 1.8,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 94.2,
+  "f0_err_cents": -15,
+  "F": [
+   336,
+   781,
+   2369
+  ],
+  "heard": "u"
+ },
+ "u@115": {
+  "err_db": 2.24,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 114.6,
+  "f0_err_cents": -6,
+  "F": [
+   343,
+   797,
+   2371
+  ],
+  "heard": "u"
+ },
+ "u@140": {
+  "err_db": 2.18,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 139.4,
+  "f0_err_cents": -7,
+  "F": [
+   337,
+   796,
+   2368
+  ],
+  "heard": "u"
+ },
+ "u@170": {
+  "err_db": 2.34,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 170.7,
+  "f0_err_cents": 7,
+  "F": [
+   347,
+   808,
+   2404
+  ],
+  "heard": "u"
+ },
+ "u@205": {
+  "err_db": 2.81,
+  "restart": 5,
+  "voiced_pct": 100,
+  "f0": 203.0,
+  "f0_err_cents": -17,
+  "F": [
+   356,
+   811,
+   2317
+  ],
+  "heard": "u"
+ },
+ "l@95": {
+  "err_db": 2.28,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 95.2,
+  "f0_err_cents": 4
+ },
+ "l@115": {
+  "err_db": 2.19,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 114.6,
+  "f0_err_cents": -6
+ },
+ "l@140": {
+  "err_db": 2.87,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 138.6,
+  "f0_err_cents": -17
+ },
+ "l@170": {
+  "err_db": 2.71,
+  "restart": 4,
+  "voiced_pct": 100,
+  "f0": 167.8,
+  "f0_err_cents": -23
+ },
+ "l@205": {
+  "err_db": 2.79,
+  "restart": 4,
+  "voiced_pct": 100,
+  "f0": 205.3,
+  "f0_err_cents": 3
+ },
+ "m@95": {
+  "err_db": 1.89,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 94.2,
+  "f0_err_cents": -15
+ },
+ "m@115": {
+  "err_db": 2.19,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 116.6,
+  "f0_err_cents": 24
+ },
+ "m@140": {
+  "err_db": 2.44,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 138.6,
+  "f0_err_cents": -17
+ },
+ "m@170": {
+  "err_db": 2.51,
+  "restart": 4,
+  "voiced_pct": 100,
+  "f0": 172.7,
+  "f0_err_cents": 27
+ },
+ "m@205": {
+  "err_db": 2.54,
+  "restart": 3,
+  "voiced_pct": 100,
+  "f0": 205.3,
+  "f0_err_cents": 3
+ },
+ "n@95": {
+  "err_db": 1.86,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 94.2,
+  "f0_err_cents": -15
+ },
+ "n@115": {
+  "err_db": 2.01,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 114.6,
+  "f0_err_cents": -6
+ },
+ "n@140": {
+  "err_db": 2.39,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 136.3,
+  "f0_err_cents": -46
+ },
+ "n@170": {
+  "err_db": 2.12,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 172.7,
+  "f0_err_cents": 27
+ },
+ "n@205": {
+  "err_db": 2.24,
+  "restart": 0,
+  "voiced_pct": 100,
+  "f0": 205.3,
+  "f0_err_cents": 3
+ },
+ "s": {
+  "err_db": 8.74,
+  "restart": 4,
+  "voiced_pct": 100
+ },
+ "h": {
+  "err_db": 3.3,
+  "restart": 0,
+  "voiced_pct": 0
+ }
+}

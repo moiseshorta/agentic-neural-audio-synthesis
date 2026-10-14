@@ -1,0 +1,101 @@
+[
+ {
+  "window_start": 8,
+  "frames": [
+   10,
+   11
+  ],
+  "phones": [
+   "a",
+   "m",
+   "u",
+   "n",
+   "dcl",
+   "drel",
+   "o"
+  ],
+  "loss_before": 19.92,
+  "loss_after": 15.53,
+  "winner": 3,
+  "winner_group": "small",
+  "accepted": true
+ },
+ {
+  "window_start": 14,
+  "frames": [
+   16,
+   17
+  ],
+  "phones": [
+   "sil",
+   "kcl",
+   "krel",
+   "o",
+   "m",
+   "o"
+  ],
+  "loss_before": 17.04,
+  "loss_after": 9.78,
+  "winner": 7,
+  "winner_group": "small",
+  "accepted": true
+ },
+ {
+  "window_start": 18,
+  "frames": [
+   20,
+   21
+  ],
+  "phones": [
+   "o",
+   "e",
+   "s",
+   "tcl",
+   "trel",
+   "a"
+  ],
+  "loss_before": 36.26,
+  "loss_after": 20.69,
+  "winner": 2,
+  "winner_group": "small",
+  "accepted": true
+ },
+ {
+  "window_start": 20,
+  "frames": [
+   22,
+   23
+  ],
+  "phones": [
+   "s",
+   "tcl",
+   "trel",
+   "a",
+   "s",
+   "o"
+  ],
+  "loss_before": 27.13,
+  "loss_after": 20.7,
+  "winner": 15,
+  "winner_group": "small",
+  "accepted": true
+ },
+ {
+  "window_start": 22,
+  "frames": [
+   24,
+   25
+  ],
+  "phones": [
+   "a",
+   "s",
+   "o",
+   "i"
+  ],
+  "loss_before": 28.7,
+  "loss_after": 21.39,
+  "winner": 0,
+  "winner_group": "small",
+  "accepted": true
+ }
+]

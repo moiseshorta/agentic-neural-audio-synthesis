@@ -1,0 +1,50 @@
+[
+ {
+  "candidate": 0,
+  "sigma": 0.1,
+  "w_harm": 3.0,
+  "w_per": 3.0,
+  "logmel_db": 3.8363304138183594,
+  "f0_rmse_cents": 91.80535511314139,
+  "f0_octave_errors_pct": 0.0,
+  "voicing_recall_pct": 97.07112970711297,
+  "voicing_false_alarm_pct": 11.560693641618498,
+  "hnr_db_median": 17.65,
+  "vowel_id_pct": 100.0,
+  "speech_minus_silence_db": 46.885009765625,
+  "f0_roughness_pct": 0.0,
+  "frame_rate_warble_db": -7.872097294916822
+ },
+ {
+  "candidate": 1,
+  "sigma": 0.07,
+  "w_harm": 3.0,
+  "w_per": 3.0,
+  "logmel_db": 3.8212356567382812,
+  "f0_rmse_cents": 91.93469497761556,
+  "f0_octave_errors_pct": 0.0,
+  "voicing_recall_pct": 97.07112970711297,
+  "voicing_false_alarm_pct": 11.560693641618498,
+  "hnr_db_median": 17.4,
+  "vowel_id_pct": 90.0,
+  "speech_minus_silence_db": 46.5533447265625,
+  "f0_roughness_pct": 0.0,
+  "frame_rate_warble_db": -8.049491067181604
+ },
+ {
+  "candidate": 2,
+  "sigma": 0.1,
+  "w_harm": 3.0,
+  "w_per": 2.0,
+  "logmel_db": 3.8446059226989746,
+  "f0_rmse_cents": 92.08641743644039,
+  "f0_octave_errors_pct": 0.0,
+  "voicing_recall_pct": 97.07112970711297,
+  "voicing_false_alarm_pct": 30.057803468208093,
+  "hnr_db_median": 17.9,
+  "vowel_id_pct": 100.0,
+  "speech_minus_silence_db": 46.66895294189453,
+  "f0_roughness_pct": 0.0,
+  "frame_rate_warble_db": -7.913488565133352
+ }
+]
