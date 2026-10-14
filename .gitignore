@@ -5,3 +5,5 @@ __pycache__/
 *.log
 *.out
 x_thread/
+paper/*
+!paper/main.pdf

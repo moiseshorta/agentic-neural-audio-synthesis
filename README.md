@@ -23,7 +23,7 @@ The skill turns each of these into a test to run on any new codec.
 The skill has been distilled from one session, on one codec, for one kind of sound. It is general by design but not
 yet by experiment. Running it with other agents, other codecs (EnCodec, DAC, RAVE) and other sounds is the open next step.
 
-Case-study results (proxies, re-measured with `paper/stage_metrics.py`):
+Case-study results (proxies, Table 2 of the paper):
 
 | | male take | female take |
 |---|---|---|
@@ -34,7 +34,6 @@ Case-study results (proxies, re-measured with `paper/stage_metrics.py`):
 | log-mel distance to the phonetic plan | 3.84 dB | 3.46 dB |
 
 - Iteration log: [`hello_world_docs/LOG.md`](hello_world_docs/LOG.md)
-- Related work and verified references: [`paper/REFERENCES.md`](paper/REFERENCES.md)
 
 ## How the skill works (as run in the case study)
 
@@ -77,7 +76,7 @@ hello_world_docs/            the experiment (run scripts from inside this folder
   NN_*/                      every iteration: wavs, spectrograms, latents (.npy), metrics (.json)
   final/                     final takes + latents
   LOG.md                     iteration log
-paper/                       main.tex, main.pdf, make_figures.py (Fig. 2), stage_metrics.py (Table 2), REFERENCES.md
+paper/                       main.pdf
 assets/                      banner.png
 neural-audio-codec/          put same-s-cpu.ts here (not included)
 (tribal_guarachero_docs/)    in progress, not yet committed: the skill applied to a 32-bar percussion piece
@@ -158,14 +157,6 @@ shows which candidate was kept.
 
 Runtime on the M4 Max: about 265 ms per step for 8 candidates × 2.6 s of audio. Keep a batch under about 300 latent
 frames per step; larger batches pushed unified memory into swap and ran about 10× slower.
-
-### 3. Paper figures, table and PDF
-
-```
-python paper/stage_metrics.py           # re-measures every carried-forward take -> paper/stage_metrics.json (Table 2)
-python paper/make_figures.py            # schematic + pitch-direction diagnostic -> paper/fig_schematic.pdf (Fig. 2)
-cd paper && pdflatex main.tex && pdflatex main.tex
-```
 
 ## Use the skill on your own codec and sound
 
